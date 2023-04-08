@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on developing E-Commerce iOS apps<br>👯 I’m looking to collaborate on developing swift projects<br>🤝 I’m looking for help with swift CoreML and ARKit<br>🌱 I’m currently learning Swift <br>💬 Ask me about anything, i will find your answer<br>⚡ Fun fact: my entire life. 
+# About Me:
+ℹ️ I’m currently working on developing E-Commerce iOS apps<br> I’m looking to collaborate on developing swift projects<br>🤝🏻 I’m looking for help with swift CoreML and ARKit<br> I’m currently learning Swift <br>💬 Ask me about anything, i will find your answer<br>⚡ Fun fact: my entire life. 
 
 
 ## 🌐 Socials:
