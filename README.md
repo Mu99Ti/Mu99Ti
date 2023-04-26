@@ -1,6 +1,3 @@
-# About Me:
-ℹ️ I’m currently working on developing E-Commerce iOS apps<br> I’m looking to collaborate on developing swift projects<br>🤝🏻 I’m looking for help with swift CoreML and ARKit<br> I’m currently learning Swift <br>💬 Ask me about anything, i will find your answer<br>⚡ Fun fact: my entire life. 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamadtalebi0079) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhamad99t) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20682537) 
